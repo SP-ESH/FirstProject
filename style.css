@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+  }
+  .First-container {
+    background-color: #1F2937;
+    display: flex;
+    padding: 20px, 0;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .menu {
+    width: 300%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+  }
+  .header {
+    font-size: 24px;
+  }
+  .links {
+    width: 200px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+  }
+  
+  .head-para-space {
+    padding-top: 60px;
+    padding-left: 0px;
+    width: 900px;
+    height: 400px;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .h1 {
+    font-size:  48px;
+  }
+  .b1 {
+    margin-top: 5px;
+    background-color: #21E1E1;
+    padding: 8px;
+    border-radius: 20px;
+  }
+  
+  .head-para {
+    display: flex;
+    width: 397px;
+    height: 200px;
+    padding: 5px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .space-box{
+    background-color: #2B4865;
+    width: 379px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .second-container {
+    color: #1F2937;
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+    align-items: center;
+  }
+  .boxes {
+    display: flex;
+    width: 50%;
+    height: 30%;
+    justify-content: space-between;
+  }
+  .h2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .box1 {
+    display: flex;
+    border: 4px solid #3882F6;
+    border-radius: 10px;
+    width: 18%;
+  }
+  
+  .box2 {
+    display: flex;
+    border-radius: 10px;
+    border: 4px solid #3882F6;
+    width: 18%;
+  }
+  
+  .box3 {
+    display: flex;
+    border-radius: 10px;
+    border: 4px solid #3882F6;
+    width: 18%;
+  }
+  .box4 {
+    display: flex;
+    border-radius: 10px;
+    border: 4px solid #3882F6;
+    width: 18%;
+  }
+  
+  .paragraphs {
+    display: flex;
+    width: 50%;
+    height: 20%;
+    justify-content: space-between;
+  }
+  
+  .pa1 {
+    display: flex;
+    width: 18%;
+  }
+  
+  .pa2 {
+    display: flex;
+    width: 18%;
+  }
+  .pa3 {
+    display: flex;
+    width: 18%;
+  }
+  .pa4 {
+    display: flex;
+    width: 18%;
+  }
+
+  .Third-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #E5E7EB;
+    height: 400px;
+  }
+  .quotes {
+    display: flex;
+    font-size: 36px;
+    width: 50%;
+  }
+  .author {
+    display: flex;
+    font-size: 20px;
+    width: 50%;
+    justify-content: flex-end;
+    font-weight: bold;
+  }
+  
+  
+  
